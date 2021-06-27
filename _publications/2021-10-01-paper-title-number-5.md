@@ -1,7 +1,7 @@
 ---
 title: "Conditional cash transfers, female bargaining power and parental labour supply"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2021-10-01-paper-title-number-5
 date: 2021-02-05
 venue: 'Journal of International Development'
 citation: 'Novella, R, Ripani, L, Vazquez, C. (2021). &quot;raining Vouchers and Labor Market Outcomes in Chile.&quot; <i>Journal of International Development</i>. 33(2).'
