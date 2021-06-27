@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am ...
+I am an economist with +8 years of professional experience working in the design, implementation, and evaluation of social programs led by multilateral organizations.
