@@ -1,7 +1,7 @@
 ---
 title: "Training Vouchers and Labor Market Outcomes in Chile"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: 2016-10-01-paper-title-number-4
 date: 2018-06-19
 venue: 'LABOUR'
 citation: 'Novella, R., G. Rucci, C. Vazquez and D.S. Kaplan. (2018). &quot;raining Vouchers and Labor Market Outcomes in Chile.&quot; <i>LABOUR</i>. 32(2).'
